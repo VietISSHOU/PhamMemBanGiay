@@ -1,0 +1,136 @@
+D:\online\Nam3\Lap trinh window\BanGiay\BanGiay\bin\Debug\BanGiay.exe.config
+D:\online\Nam3\Lap trinh window\BanGiay\BanGiay\bin\Debug\BanGiay.exe
+D:\online\Nam3\Lap trinh window\BanGiay\BanGiay\bin\Debug\BanGiay.pdb
+D:\online\Nam3\Lap trinh window\BanGiay\BanGiay\bin\Debug\EntityFramework.dll
+D:\online\Nam3\Lap trinh window\BanGiay\BanGiay\bin\Debug\EntityFramework.SqlServer.dll
+D:\online\Nam3\Lap trinh window\BanGiay\BanGiay\bin\Debug\EntityFramework.xml
+D:\online\Nam3\Lap trinh window\BanGiay\BanGiay\bin\Debug\EntityFramework.SqlServer.xml
+D:\online\Nam3\Lap trinh window\BanGiay\BanGiay\obj\Debug\BanGiay.frmDangNhap.resources
+D:\online\Nam3\Lap trinh window\BanGiay\BanGiay\obj\Debug\BanGiay.frmGiaoDien.resources
+D:\online\Nam3\Lap trinh window\BanGiay\BanGiay\obj\Debug\BanGiay.Properties.Resources.resources
+D:\online\Nam3\Lap trinh window\BanGiay\BanGiay\obj\Debug\BanGiay.csproj.GenerateResource.cache
+D:\online\Nam3\Lap trinh window\BanGiay\BanGiay\obj\Debug\BanGiay.csproj.CoreCompileInputs.cache
+D:\online\Nam3\Lap trinh window\BanGiay\BanGiay\obj\Debug\BanGiay.csproj.CopyComplete
+D:\online\Nam3\Lap trinh window\BanGiay\BanGiay\obj\Debug\BanGiay.exe
+D:\online\Nam3\Lap trinh window\BanGiay\BanGiay\obj\Debug\BanGiay.pdb
+D:\online\Nam3\Lap trinh window\BanGiay\BanGiay\obj\Debug\BanGiay.frmTimKiem.resources
+D:\online\Nam3\Lap trinh window\BanGiay\BanGiay\obj\Debug\BanGiay.frmDanhMucNhanVien.resources
+D:\online\Nam3\Lap trinh window\BanGiay\BanGiay\obj\Debug\BanGiay.frmDanhMucQuanLy.resources
+D:\online\Nam3\Lap trinh window\BanGiay\BanGiay\obj\Debug\BanGiay.frmThayDoiDangNhap.resources
+D:\online\Nam3\Lap trinh window\BanGiay\BanGiay\obj\Debug\BanGiay.frmLienHe.resources
+D:\HOCTAP\LapTrinhTrenMoiTruongWindows\DO_AN\Đồ án\BanGiay\BanGiay\bin\Debug\BanGiay.exe.config
+D:\HOCTAP\LapTrinhTrenMoiTruongWindows\DO_AN\Đồ án\BanGiay\BanGiay\bin\Debug\BanGiay.exe
+D:\HOCTAP\LapTrinhTrenMoiTruongWindows\DO_AN\Đồ án\BanGiay\BanGiay\bin\Debug\BanGiay.pdb
+D:\HOCTAP\LapTrinhTrenMoiTruongWindows\DO_AN\Đồ án\BanGiay\BanGiay\bin\Debug\EntityFramework.dll
+D:\HOCTAP\LapTrinhTrenMoiTruongWindows\DO_AN\Đồ án\BanGiay\BanGiay\bin\Debug\EntityFramework.SqlServer.dll
+D:\HOCTAP\LapTrinhTrenMoiTruongWindows\DO_AN\Đồ án\BanGiay\BanGiay\bin\Debug\EntityFramework.xml
+D:\HOCTAP\LapTrinhTrenMoiTruongWindows\DO_AN\Đồ án\BanGiay\BanGiay\bin\Debug\EntityFramework.SqlServer.xml
+D:\HOCTAP\LapTrinhTrenMoiTruongWindows\DO_AN\Đồ án\BanGiay\BanGiay\obj\Debug\BanGiay.csproj.AssemblyReference.cache
+D:\HOCTAP\LapTrinhTrenMoiTruongWindows\DO_AN\Đồ án\BanGiay\BanGiay\obj\Debug\BanGiay.frmDangNhap.resources
+D:\HOCTAP\LapTrinhTrenMoiTruongWindows\DO_AN\Đồ án\BanGiay\BanGiay\obj\Debug\BanGiay.frmDanhMucNhanVien.resources
+D:\HOCTAP\LapTrinhTrenMoiTruongWindows\DO_AN\Đồ án\BanGiay\BanGiay\obj\Debug\BanGiay.frmGiaoDien.resources
+D:\HOCTAP\LapTrinhTrenMoiTruongWindows\DO_AN\Đồ án\BanGiay\BanGiay\obj\Debug\BanGiay.frmDanhMucQuanLy.resources
+D:\HOCTAP\LapTrinhTrenMoiTruongWindows\DO_AN\Đồ án\BanGiay\BanGiay\obj\Debug\BanGiay.frmLienHe.resources
+D:\HOCTAP\LapTrinhTrenMoiTruongWindows\DO_AN\Đồ án\BanGiay\BanGiay\obj\Debug\BanGiay.frmThayDoiDangNhap.resources
+D:\HOCTAP\LapTrinhTrenMoiTruongWindows\DO_AN\Đồ án\BanGiay\BanGiay\obj\Debug\BanGiay.frmTimKiem.resources
+D:\HOCTAP\LapTrinhTrenMoiTruongWindows\DO_AN\Đồ án\BanGiay\BanGiay\obj\Debug\BanGiay.Properties.Resources.resources
+D:\HOCTAP\LapTrinhTrenMoiTruongWindows\DO_AN\Đồ án\BanGiay\BanGiay\obj\Debug\BanGiay.csproj.GenerateResource.cache
+D:\HOCTAP\LapTrinhTrenMoiTruongWindows\DO_AN\Đồ án\BanGiay\BanGiay\obj\Debug\BanGiay.csproj.CoreCompileInputs.cache
+D:\HOCTAP\LapTrinhTrenMoiTruongWindows\DO_AN\Đồ án\BanGiay\BanGiay\obj\Debug\BanGiay.csproj.CopyComplete
+D:\HOCTAP\LapTrinhTrenMoiTruongWindows\DO_AN\Đồ án\BanGiay\BanGiay\obj\Debug\BanGiay.exe
+D:\HOCTAP\LapTrinhTrenMoiTruongWindows\DO_AN\Đồ án\BanGiay\BanGiay\obj\Debug\BanGiay.pdb
+D:\HOCTAP\LapTrinhTrenMoiTruongWindows\DO_AN\Đồ án\BanGiay\BanGiay\obj\Debug\BanGiay.frmThuongHieu.resources
+D:\HOCTAP\LapTrinhTrenMoiTruongWindows\DO_AN\Đồ án\BanGiay\BanGiay\obj\Debug\BanGiay.frmQuanLyHoaDon.resources
+D:\online\Nam3\Lap trinh window\BanGiay\BanGiay\obj\Debug\BanGiay.frmQuanLyHoaDon.resources
+D:\online\Nam3\Lap trinh window\BanGiay\BanGiay\obj\Debug\BanGiay.frmQuanLyKhachHang.resources
+D:\online\Nam3\Lap trinh window\BanGiay\BanGiay\obj\Debug\BanGiay.frmThuongHieu.resources
+D:\online\Nam3\Lap trinh window\BanGiay\BanGiay\obj\Debug\BanGiay.frmQuanLyNhanVien.resources
+D:\online\Nam3\Lap trinh window\BanGiay\BanGiay\obj\Debug\BanGiay.frmThongKe.resources
+D:\online\Nam3\Lap trinh window\BanGiay\BanGiay\obj\Debug\BanGiay.frmQuanLySanPham.resources
+D:\online\Nam3\Lap trinh window\BanGiay\BanGiay\obj\Debug\BanGiay.csproj.ResolveComReference.cache
+D:\online\Nam3\Lap trinh window\BanGiay\BanGiay\obj\Debug\BanGiay.csproj.AssemblyReference.cache
+D:\online\Nam3\CongNghePhanMem\BanGiay\BanGiay\bin\Debug\BanGiay.exe.config
+D:\online\Nam3\CongNghePhanMem\BanGiay\BanGiay\bin\Debug\BanGiay.exe
+D:\online\Nam3\CongNghePhanMem\BanGiay\BanGiay\bin\Debug\BanGiay.pdb
+D:\online\Nam3\CongNghePhanMem\BanGiay\BanGiay\bin\Debug\EntityFramework.dll
+D:\online\Nam3\CongNghePhanMem\BanGiay\BanGiay\bin\Debug\EntityFramework.SqlServer.dll
+D:\online\Nam3\CongNghePhanMem\BanGiay\BanGiay\bin\Debug\EntityFramework.xml
+D:\online\Nam3\CongNghePhanMem\BanGiay\BanGiay\bin\Debug\EntityFramework.SqlServer.xml
+D:\online\Nam3\CongNghePhanMem\BanGiay\BanGiay\obj\Debug\BanGiay.csproj.AssemblyReference.cache
+D:\online\Nam3\CongNghePhanMem\BanGiay\BanGiay\obj\Debug\BanGiay.csproj.ResolveComReference.cache
+D:\online\Nam3\CongNghePhanMem\BanGiay\BanGiay\obj\Debug\BanGiay.frmDangNhap.resources
+D:\online\Nam3\CongNghePhanMem\BanGiay\BanGiay\obj\Debug\BanGiay.frmDanhMucNhanVien.resources
+D:\online\Nam3\CongNghePhanMem\BanGiay\BanGiay\obj\Debug\BanGiay.frmDanhMucQuanLy.resources
+D:\online\Nam3\CongNghePhanMem\BanGiay\BanGiay\obj\Debug\BanGiay.frmLienHe.resources
+D:\online\Nam3\CongNghePhanMem\BanGiay\BanGiay\obj\Debug\BanGiay.frmQuanLyHoaDon.resources
+D:\online\Nam3\CongNghePhanMem\BanGiay\BanGiay\obj\Debug\BanGiay.frmQuanLyKhachHang.resources
+D:\online\Nam3\CongNghePhanMem\BanGiay\BanGiay\obj\Debug\BanGiay.frmQuanLyNhanVien.resources
+D:\online\Nam3\CongNghePhanMem\BanGiay\BanGiay\obj\Debug\BanGiay.frmQuanLySanPham.resources
+D:\online\Nam3\CongNghePhanMem\BanGiay\BanGiay\obj\Debug\BanGiay.frmThayDoiDangNhap.resources
+D:\online\Nam3\CongNghePhanMem\BanGiay\BanGiay\obj\Debug\BanGiay.frmThongKe.resources
+D:\online\Nam3\CongNghePhanMem\BanGiay\BanGiay\obj\Debug\BanGiay.frmThuongHieu.resources
+D:\online\Nam3\CongNghePhanMem\BanGiay\BanGiay\obj\Debug\BanGiay.frmTimKiem.resources
+D:\online\Nam3\CongNghePhanMem\BanGiay\BanGiay\obj\Debug\BanGiay.Properties.Resources.resources
+D:\online\Nam3\CongNghePhanMem\BanGiay\BanGiay\obj\Debug\BanGiay.csproj.GenerateResource.cache
+D:\online\Nam3\CongNghePhanMem\BanGiay\BanGiay\obj\Debug\BanGiay.csproj.CoreCompileInputs.cache
+D:\online\Nam3\CongNghePhanMem\BanGiay\BanGiay\obj\Debug\BanGiay.csproj.CopyComplete
+D:\online\Nam3\CongNghePhanMem\BanGiay\BanGiay\obj\Debug\BanGiay.exe
+D:\online\Nam3\CongNghePhanMem\BanGiay\BanGiay\obj\Debug\BanGiay.pdb
+D:\online\Nam3\CongNghePhanMem\BanGiay\BanGiay\obj\Debug\BanGiay.frmThuNhap.resources
+C:\Users\eTivL\OneDrive\Desktop\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\bin\Debug\BanGiay.exe.config
+C:\Users\eTivL\OneDrive\Desktop\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\bin\Debug\BanGiay.exe
+C:\Users\eTivL\OneDrive\Desktop\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\bin\Debug\BanGiay.pdb
+C:\Users\eTivL\OneDrive\Desktop\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\bin\Debug\EntityFramework.dll
+C:\Users\eTivL\OneDrive\Desktop\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eTivL\OneDrive\Desktop\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\bin\Debug\EntityFramework.xml
+C:\Users\eTivL\OneDrive\Desktop\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eTivL\OneDrive\Desktop\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.csproj.AssemblyReference.cache
+C:\Users\eTivL\OneDrive\Desktop\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.csproj.ResolveComReference.cache
+C:\Users\eTivL\OneDrive\Desktop\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.frmDangNhap.resources
+C:\Users\eTivL\OneDrive\Desktop\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.frmDanhMucNhanVien.resources
+C:\Users\eTivL\OneDrive\Desktop\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.frmDanhMucQuanLy.resources
+C:\Users\eTivL\OneDrive\Desktop\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.frmLienHe.resources
+C:\Users\eTivL\OneDrive\Desktop\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.frmQuanLyHoaDon.resources
+C:\Users\eTivL\OneDrive\Desktop\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.frmQuanLyKhachHang.resources
+C:\Users\eTivL\OneDrive\Desktop\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.frmQuanLyNhanVien.resources
+C:\Users\eTivL\OneDrive\Desktop\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.frmQuanLySanPham.resources
+C:\Users\eTivL\OneDrive\Desktop\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.frmThayDoiDangNhap.resources
+C:\Users\eTivL\OneDrive\Desktop\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.frmThongKe.resources
+C:\Users\eTivL\OneDrive\Desktop\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.frmThuNhap.resources
+C:\Users\eTivL\OneDrive\Desktop\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.frmThuongHieu.resources
+C:\Users\eTivL\OneDrive\Desktop\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.frmTimKiem.resources
+C:\Users\eTivL\OneDrive\Desktop\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.Properties.Resources.resources
+C:\Users\eTivL\OneDrive\Desktop\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.csproj.GenerateResource.cache
+C:\Users\eTivL\OneDrive\Desktop\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.csproj.CoreCompileInputs.cache
+C:\Users\eTivL\OneDrive\Desktop\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.csproj.CopyComplete
+C:\Users\eTivL\OneDrive\Desktop\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.exe
+C:\Users\eTivL\OneDrive\Desktop\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.pdb
+E:\HOCTAP\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\bin\Debug\BanGiay.exe.config
+E:\HOCTAP\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\bin\Debug\BanGiay.exe
+E:\HOCTAP\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\bin\Debug\BanGiay.pdb
+E:\HOCTAP\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\bin\Debug\EntityFramework.dll
+E:\HOCTAP\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\bin\Debug\EntityFramework.SqlServer.dll
+E:\HOCTAP\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\bin\Debug\EntityFramework.xml
+E:\HOCTAP\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\bin\Debug\EntityFramework.SqlServer.xml
+E:\HOCTAP\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.csproj.AssemblyReference.cache
+E:\HOCTAP\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.csproj.SuggestedBindingRedirects.cache
+E:\HOCTAP\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.csproj.ResolveComReference.cache
+E:\HOCTAP\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.frmDangNhap.resources
+E:\HOCTAP\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.frmDanhMucNhanVien.resources
+E:\HOCTAP\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.frmDanhMucQuanLy.resources
+E:\HOCTAP\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.frmLienHe.resources
+E:\HOCTAP\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.frmQuanLyHoaDon.resources
+E:\HOCTAP\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.frmQuanLyKhachHang.resources
+E:\HOCTAP\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.frmQuanLyNhanVien.resources
+E:\HOCTAP\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.frmQuanLySanPham.resources
+E:\HOCTAP\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.frmThayDoiDangNhap.resources
+E:\HOCTAP\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.frmThongKe.resources
+E:\HOCTAP\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.frmThuNhap.resources
+E:\HOCTAP\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.frmThuongHieu.resources
+E:\HOCTAP\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.frmTimKiem.resources
+E:\HOCTAP\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.Properties.Resources.resources
+E:\HOCTAP\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.csproj.GenerateResource.cache
+E:\HOCTAP\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.csproj.CoreCompileInputs.cache
+E:\HOCTAP\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.csproj.CopyComplete
+E:\HOCTAP\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.exe
+E:\HOCTAP\CongNghePhanMem\BaoCaoCuoiKi\BanGiay\BanGiay\obj\Debug\BanGiay.pdb
